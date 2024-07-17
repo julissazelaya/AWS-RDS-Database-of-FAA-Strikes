@@ -5,7 +5,6 @@
 #' output:
 #'   pdf_document: default
 #'   html_notebook: default
-#' subtitle: Practicum I CS5200
 #' ---
 #' 
 #' The collision between a wildlife bird and an aircraft poses risks to aircraft
